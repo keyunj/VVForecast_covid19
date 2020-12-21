@@ -1,0 +1,1 @@
+python train.py --train-batch 32 --ckp-date 20200701 --gpu-id 5 --t-gate --coef sigmoid
