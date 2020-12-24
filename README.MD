@@ -1,6 +1,6 @@
 # Voxel-level forecast system for lesion development in patients with COVID-19
 
-This is an opensource project of voxel-level COVID-19 lesion forecast system, which is presented in our paper: Voxel-level forecast system for lesion development in patients with COVID-19 (https://www.medrxiv.org/content/10.1101/2020.12.17.20248377v1).
+This is an opensource project of voxel-level COVID-19 lesion forecast system, which is presented in our paper: [Voxel-level forecast system for lesion development in patients with COVID-19](https://www.medrxiv.org/content/10.1101/2020.12.17.20248377v1).
 
 A video demo is also released on [YouTube](https://youtu.be/wtXjiBV87k4).
 
